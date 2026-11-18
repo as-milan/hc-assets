@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Renewables_ConfiguringRenewablePaymentsSchedule_rps-04-admin-follow-up-item_boxed.png",
+ "sha256": "a620e983865508bff54e27e6263246ac4e45d8a6496745b3cacffe4a6cab5059",
+ "shot": "rps-04-admin-follow-up-item",
+ "shots": [
+  "rps-04-admin-follow-up-item"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-18T20:59:58.520Z",
+  "shot": "rps-04-admin-follow-up-item",
+  "file": "SM_Renewables_ConfiguringRenewablePaymentsSchedule_rps-04-admin-follow-up-item_boxed.png",
+  "sha256": "a620e983865508bff54e27e6263246ac4e45d8a6496745b3cacffe4a6cab5059",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "fabdb5a4",
+  "notes": "blind-s1118-hq9 pack-04 wide recapture",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "p3JIjRFp9g40d5c1PFjDg8+tofgQzsifP2lkBjyTcJcAhrFs9T5tAdF66M7lPjmBIBHTuZio2g7A3Aquf+LhCg=="
+ },
+ "frozen": false,
+ "at": "2026-11-18T23:10:01.521Z",
+ "sig": "xs5N8tcoYyzyOWAdD5o/E3OTJL3LkU9ox3acxHZNzwTPKF6PkDqRBuB5XUfrnYOyJ+Zegidu+Qbw07LvtvfzBg=="
+}

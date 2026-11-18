@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-05-v2-cannot-publish_boxed.png",
+ "sha256": "373f9bfb80153b835cdc087115cca8583f22968f5c37e91c6a56616b24d540d8",
+ "shot": "bdet-05-v2-cannot-publish",
+ "shots": [
+  "bdet-05-v2-cannot-publish"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-18T21:31:07.190Z",
+  "shot": "bdet-05-v2-cannot-publish",
+  "file": "SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-05-v2-cannot-publish_boxed.png",
+  "sha256": "373f9bfb80153b835cdc087115cca8583f22968f5c37e91c6a56616b24d540d8",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "fabdb5a4",
+  "notes": "blind-s1118-hq10 pack-03; 5th round, equal-pad fix",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "wWTvJh3xzVMzqYWkW+8mPvqltv1Bw8PgX6ulzP8WCO+0fMZwZ6JjeYhGKPLEcC2nn6x/H165XTBC36mdUbDvCQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-18T23:09:58.126Z",
+ "sig": "iRWBGDUyMyRCMb3ZQ1PuNGyWr5dVg+5auyN4iZIi8qLIjQQqy8dCHhMffG7HP3v3lbQKzd3g2/eQcztGy0QbAA=="
+}
