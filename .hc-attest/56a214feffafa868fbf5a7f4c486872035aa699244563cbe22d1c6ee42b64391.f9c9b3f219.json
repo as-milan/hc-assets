@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Emails_EmailsDetailedGuide_emails-05-auto-notifications.png",
+ "sha256": "56a214feffafa868fbf5a7f4c486872035aa699244563cbe22d1c6ee42b64391",
+ "shot": "emails-05-auto-notifications",
+ "shots": [
+  "emails-05-auto-notifications"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-18T11:16:35.332Z",
+  "shot": "emails-05-auto-notifications",
+  "file": "SM_Emails_EmailsDetailedGuide_emails-05-auto-notifications.png",
+  "sha256": "56a214feffafa868fbf5a7f4c486872035aa699244563cbe22d1c6ee42b64391",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-1118-standing-1",
+  "notes": "full six-role panel, blinded pack with canary, run 2026-11-18 on recapture maxh160 (first run at maxh176 failed edge inspector on 28 css bottom band)",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "0m/3cvE1/A6DNJm1mS2v7TI3xinVgfGTHde3c7CwLwzcLvidAVO4e9vPngCsNggELJBX5HBSxWzV8UAkR7vVDA=="
+ },
+ "frozen": false,
+ "at": "2026-11-19T02:41:54.437Z",
+ "sig": "Ax0UqxTSiF+om24uiaXbpsHD1MX+Ipvp1679V0lAtkqxy4hnUoiHP7Jw/ZZmoRL/UZQvQem0yg4v0kpsfIMcCA=="
+}
