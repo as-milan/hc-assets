@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-01-v2-list-header-checkbox_boxed.png",
+ "sha256": "085d43aa870f374948f4c3470fdac42787ab7c2cf7daf96828984a7d491cd687",
+ "shot": "bdet-01-v2-list-header-checkbox",
+ "shots": [
+  "bdet-01-v2-list-header-checkbox"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-19T00:48:44.105Z",
+  "shot": "bdet-01-v2-list-header-checkbox",
+  "file": "SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-01-v2-list-header-checkbox_boxed.png",
+  "sha256": "085d43aa870f374948f4c3470fdac42787ab7c2cf7daf96828984a7d491cd687",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "s1118-hq12 (blind-s1118-hq12c r3)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "MxMQBStl7GYB56hxADwQexwkrcM7h5mpXPRzayfxErpmLe/rPOddgywpCHkA2l4IHxQN/jXNZxowZl3sCmhpBQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-19T04:31:41.745Z",
+ "sig": "9yK+ld+rKRUsVA3wgxIfBfpuZJlfGFDtzTS4Fp4Zy79IYS710KDTkQ5BmxD1oBzw7wOXhJTM1qYmvntsf4r0AQ=="
+}

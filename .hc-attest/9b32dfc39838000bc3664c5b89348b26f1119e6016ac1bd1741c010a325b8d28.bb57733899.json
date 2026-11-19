@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-04-v2-confirm-update_boxed.png",
+ "sha256": "9b32dfc39838000bc3664c5b89348b26f1119e6016ac1bd1741c010a325b8d28",
+ "shot": "bdet-04-v2-confirm-update",
+ "shots": [
+  "bdet-04-v2-confirm-update"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-19T00:42:00.925Z",
+  "shot": "bdet-04-v2-confirm-update",
+  "file": "SM_Managing_Scholarships_UpdatingScholarshipDetailsInBulk_bdet-04-v2-confirm-update_boxed.png",
+  "sha256": "9b32dfc39838000bc3664c5b89348b26f1119e6016ac1bd1741c010a325b8d28",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "s1118-hq12 (blind-s1118-hq12 r1)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "7dmp28Yh+l5WFvJlSTsiKwc7YS63orj9A6dIz5NbVZPDDYCCrpUx0SZasRrY2m6+lV6RytpetChsKANwWRvGAg=="
+ },
+ "frozen": false,
+ "at": "2026-11-19T04:31:45.908Z",
+ "sig": "8+uMchHj4glI7fyUd+eZWd7MkZJgrUNJzD0dByBa0k88ANKKIFE5XAj4y65S9mqEkayjqv1PGubMLY8Qgb18Aw=="
+}
