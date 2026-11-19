@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Setting_Up_Scholarship_Tasks_(Follow-Ups)_ManagingExternalRequests_er-07-admin-request-completed_boxed.png",
+ "sha256": "fca18ccd5dd766603a0c529e023162d00636c979ad895f3717930c79ed30e18b",
+ "shot": "er-07-admin-request-completed",
+ "shots": [
+  "er-07-admin-request-completed"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-19T00:49:16.958Z",
+  "shot": "er-07-admin-request-completed",
+  "file": "SM_Setting_Up_Scholarship_Tasks_(Follow-Ups)_ManagingExternalRequests_er-07-admin-request-completed_boxed.png",
+  "sha256": "fca18ccd5dd766603a0c529e023162d00636c979ad895f3717930c79ed30e18b",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "s1118-hq11",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "W0ZvXOCfvP0VxKhYwnlhNqNMnCWh2J/UJN0BnmHPg3mW4NX2pfCQMKTWhITX4oni9qWUYFChUlxVhNF6uOosCQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-19T00:52:50.767Z",
+ "sig": "ufiVwZkJVGMqHW2R8GzoU2H5PDMrdl+TPySgZ798+COynYF2Fuw68YhH6yi8DSW+hpzb7jRSFcVdwTLyQkftBQ=="
+}
