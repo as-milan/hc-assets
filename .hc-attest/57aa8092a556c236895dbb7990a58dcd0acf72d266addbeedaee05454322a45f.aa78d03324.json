@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Award_Cycle_ConfiguringAwardCycles_ac-01-v3-settings-cycles-and-terms-path_boxed.png",
+ "sha256": "57aa8092a556c236895dbb7990a58dcd0acf72d266addbeedaee05454322a45f",
+ "shot": "ac-01-v3-settings-cycles-and-terms-path",
+ "shots": [
+  "ac-01-v3-settings-cycles-and-terms-path"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-19T06:11:02.782Z",
+  "shot": "ac-01-v3-settings-cycles-and-terms-path",
+  "file": "SM_Award_Cycle_ConfiguringAwardCycles_ac-01-v3-settings-cycles-and-terms-path_boxed.png",
+  "sha256": "57aa8092a556c236895dbb7990a58dcd0acf72d266addbeedaee05454322a45f",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-sub-5123abaa blind-s1118-ac01 (edge r2b after ruling row 42; r2 FAIL on strip, chair ruled reviewer error)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "iY+qhU6FGdOXR4nDufq3LtDvK4DfW3mPsIZHm1eWFzj4393y2FhP4vPQhK+kkGmgzNeeQegSTgGuPSLzEAipCA=="
+ },
+ "frozen": false,
+ "at": "2026-11-19T06:11:47.539Z",
+ "sig": "mHbkJjy6vuOxrB/JHz+fiprvk+S26AiZ9BILf1ZW8g+IO+kuYeuMPyTOCOqxv+AluBfT+fa3JpRFWY75FFXcBw=="
+}
