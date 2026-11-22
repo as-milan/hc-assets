@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-04-remove-select-scholarships.png",
+ "sha256": "d68a3b27b647a174803c244abb67fc628afef419aa018c72343c918542c30c90",
+ "shot": "bar-04-remove-select-scholarships",
+ "shots": [
+  "bar-04-remove-select-scholarships"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-21T12:16:57.976Z",
+  "shot": "bar-04-remove-select-scholarships",
+  "file": "SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-04-remove-select-scholarships.png",
+  "sha256": "d68a3b27b647a174803c244abb67fc628afef419aa018c72343c918542c30c90",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-sam-16926346 worker 2026-11-21 (bar-02 consistency FAIL ruled reviewer error by chair, verdict-chair-bar02.json)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "TcouicRk8qQP1xYHaG2VRHVh56Ho2b9REVK4YvxkK6UVl3d472DQtifs8A5p0YYz+Pp75h2/BvNJ1Z6x7OhBAg=="
+ },
+ "frozen": false,
+ "at": "2026-11-21T12:20:16.117Z",
+ "sig": "YVGemWNCrD/acr1igIgWSJOXmbSz10jXFyF3ptNKqZj6m8XohOPFLx6cqNQWtNBXDINo/LqVXOdZ6o/gGy3aAg=="
+}
