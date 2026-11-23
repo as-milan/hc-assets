@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-01-qualification-picker_boxed.png",
+ "sha256": "1925e387b6a6181ab21e746ddf9a5649f3f4780a368ff8b7976f9e1ab4fd6435",
+ "shot": "pq-01-qualification-picker",
+ "shots": [
+  "pq-01-qualification-picker"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-21T13:45:46.356Z",
+  "shot": "pq-01-qualification-picker",
+  "file": "SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-01-qualification-picker_boxed.png",
+  "sha256": "1925e387b6a6181ab21e746ddf9a5649f3f4780a368ff8b7976f9e1ab4fd6435",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-sam-18530451 lane worker",
+  "notes": "Sam draft 18530451; rounds: r1 fails fixed (alt, nav box, box clearance); final packs verdicts3",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "YX0ZAkkesun17FJFaz+0wvpp/ZjMR/dMwjHQPdnvkmLBkYhAzfg05x24xAAIt/zqR79SM8n8CYcVyTPbB2kkCQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-21T13:46:45.624Z",
+ "sig": "Qx4EeR8aqQQEhOrngLkMmYHWK6QaQELmgk7MMQx1X8uniZ9KMvkkQjMga+Ed37FWUQzIdI/FHnNofKe+aai1BQ=="
+}
