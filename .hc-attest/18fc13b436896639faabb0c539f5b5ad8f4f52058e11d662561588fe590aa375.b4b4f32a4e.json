@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-02-student-todo-card_boxed.png",
+ "sha256": "18fc13b436896639faabb0c539f5b5ad8f4f52058e11d662561588fe590aa375",
+ "shot": "pq-02-student-todo-card",
+ "shots": [
+  "pq-02-student-todo-card"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-24T02:18:22.262Z",
+  "shot": "pq-02-student-todo-card",
+  "file": "SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-02-student-todo-card_boxed.png",
+  "sha256": "18fc13b436896639faabb0c539f5b5ad8f4f52058e11d662561588fe590aa375",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-sam-b-cont (session a7e21abd)",
+  "notes": "Sam draft 18530451 pq-02 on PE60; r1 gatekeeper/annotation/consistency failed only on stale first-in-article framing (single-shot manifest), pack rebuilt with article order, reruns PASS; canary aa-01b failed by all six; verdicts out/_sampq02/verdicts",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "THzO8Q6mwQP7Tfr8PtQN2lSKeRHbntNS1vTtxXLyel6Bjc8C9n2UcoCDqDTt3yRSRx4lzG+POBPCHFl/6R+mCw=="
+ },
+ "frozen": false,
+ "at": "2026-11-24T02:24:00.469Z",
+ "sig": "UAg2vL/Z/s4Q6ct+iNJy1gVooV1wcSt9Rbujwr0y5J6M5xIyB6KDkTQQ+ZvQFxaAZZXgXy4XGogk5mfS3ceEDg=="
+}

@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Review_ManagingReviewersAcrossReviewGroups_rgb-06-template-list.png",
+ "sha256": "66c10162071b59dabf82ceae508707aae5131fe4b94127f9e93417abf35f3aa9",
+ "shot": "rgb-06-template-list",
+ "shots": [
+  "rgb-06-template-list"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-24T01:42:23.303Z",
+  "shot": "rgb-06-template-list",
+  "file": "SM_Review_ManagingReviewersAcrossReviewGroups_rgb-06-template-list.png",
+  "sha256": "66c10162071b59dabf82ceae508707aae5131fe4b94127f9e93417abf35f3aa9",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-session-C-18530539",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "v21wdpe2+MmmRJo0a4Hu05236g6NR67AQx73Dhicj8jVygSenmkNU1vOPc2X73TqO7TPIe5lxll9YzNzFRSvAw=="
+ },
+ "frozen": false,
+ "at": "2026-11-24T21:52:06.894Z",
+ "sig": "92XNhUXRrDZpvD/LI3/fbUfqNP66O6lN3Nkc1yNeCuNN+2eDE9g/aJ0zLEYhOS9HTI/77DSXr25JQxVZRyhxAQ=="
+}
