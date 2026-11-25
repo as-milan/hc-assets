@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Users_MergingProspectiveStudentAccounts_mg-05-compare-lists_boxed.png",
+ "sha256": "6d7c5b49fc4cb9ad3b04ac37633a33e0fa5ce8edea3e4b28c466e8226e3c7001",
+ "shot": "mg-05-compare-lists",
+ "shots": [
+  "mg-05-compare-lists"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:49:04.894Z",
+  "shot": "mg-05-compare-lists",
+  "file": "SM_Managing_Users_MergingProspectiveStudentAccounts_mg-05-compare-lists_boxed.png",
+  "sha256": "6d7c5b49fc4cb9ad3b04ac37633a33e0fa5ce8edea3e4b28c466e8226e3c7001",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "HC hq1125 18530568",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "ecKvAeBI3aDQEkm2UOhzIO3qC5rAIuR+mOYQFFR0p8+JBEsBZogtN/Vhrg21hn0koMQQf9YuXEJ5wJcWMm4oBg=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T09:51:24.709Z",
+ "sig": "3zKhtuMOaHH9cor2Cl84tTEMCp3kp6+MfV0vFhRMA6W6L+CVyUipTg47SkLQHZDGH7IQ+zGteElpp2KUNN8vBw=="
+}

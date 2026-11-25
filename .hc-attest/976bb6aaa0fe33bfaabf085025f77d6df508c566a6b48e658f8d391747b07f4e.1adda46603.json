@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Users_MergingProspectiveStudentAccounts_mg-06-conflicts_boxed.png",
+ "sha256": "976bb6aaa0fe33bfaabf085025f77d6df508c566a6b48e658f8d391747b07f4e",
+ "shot": "mg-06-conflicts",
+ "shots": [
+  "mg-06-conflicts"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:49:06.636Z",
+  "shot": "mg-06-conflicts",
+  "file": "SM_Managing_Users_MergingProspectiveStudentAccounts_mg-06-conflicts_boxed.png",
+  "sha256": "976bb6aaa0fe33bfaabf085025f77d6df508c566a6b48e658f8d391747b07f4e",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "HC hq1125 18530568",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "geMXfYQP2o60A88LN3hGOPnrSWLZilm4S3rO8DmDXFetStlGBIOGfi4kmrL++4FWPo+a2mjEdNFPSJpkCn1zBw=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T09:51:27.479Z",
+ "sig": "G65gtjMED3qWKHqbAgA33XjVGYOlYgmgMfV2/lPpIMF9EctbMks5Q9AqaEqCSTOBvuJL38IhJ9qY+KlMBb+ADA=="
+}

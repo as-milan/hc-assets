@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Users_MergingProspectiveStudentAccounts_mg-01-users-merge-mode-r2_boxed.png",
+ "sha256": "d01d1520f2739a4aecd73202a51d1a5750e374e2b1dc150041e65dd9d81e885c",
+ "shot": "mg-01-users-merge-mode-r2",
+ "shots": [
+  "mg-01-users-merge-mode-r2"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:50:40.999Z",
+  "shot": "mg-01-users-merge-mode-r2",
+  "file": "SM_Managing_Users_MergingProspectiveStudentAccounts_mg-01-users-merge-mode-r2_boxed.png",
+  "sha256": "d01d1520f2739a4aecd73202a51d1a5750e374e2b1dc150041e65dd9d81e885c",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "HC hq1125 18530568 (same bytes as panel-judged files, renamed -r2 for a fresh hosted filename)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "khQWCEXrk4rVswD04F89gSKpdpBdRUMK4kfUpRpWk2Uzbl29GFziGo7bhlubmOAW7f04BdmdIItYesrO5yirBg=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T09:51:17.521Z",
+ "sig": "a3jrlWAc1PiSpZfyiBPKs9Ru9Et+mejbA3FAcUz8wB1o/MHWwh1kzTNXoofM/ppCz/W6z9yV9/lOLNAnST7YDQ=="
+}
