@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Users_MergingProspectiveStudentAccounts_mg-03-wizard-step-2_boxed.png",
+ "sha256": "1dc6eea504cad1ba243cd9a2d4666a55968a34a30932ecc2b6a716ef61f0657e",
+ "shot": "mg-03-wizard-step-2",
+ "shots": [
+  "mg-03-wizard-step-2"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-24T21:54:46.768Z",
+  "shot": "mg-03-wizard-step-2",
+  "file": "SM_Managing_Users_MergingProspectiveStudentAccounts_mg-03-wizard-step-2_boxed.png",
+  "sha256": "1dc6eea504cad1ba243cd9a2d4666a55968a34a30932ecc2b6a716ef61f0657e",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq-1124-sam-shots-1, Milan approved in chat 2026-11-24 (Keep and record): chair PASS once realEmail passes; one-address allowlist per MILAN-RULINGS 2026-10-29",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "8G2R/E8aLSTZnef18M5vMlal8jIWmjYND0MJYY1Rvf0N1XLda3JcQsXYQQ2U68SK2dxk4dMtlllpC3OZLxTLAg=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T03:05:49.524Z",
+ "sig": "bYfjQUdBiWM884N7GFXrQHMupyUI9rmznDyl7aGLtQIvHhkK8PgVu7T76iNS+bzQ+s+GpwoAH4pJOK2tMthIBA=="
+}
