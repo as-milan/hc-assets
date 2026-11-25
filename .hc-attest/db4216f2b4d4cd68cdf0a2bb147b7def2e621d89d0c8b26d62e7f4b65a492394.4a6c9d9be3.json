@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-06-awarding-prequalified-row_boxed.png",
+ "sha256": "db4216f2b4d4cd68cdf0a2bb147b7def2e621d89d0c8b26d62e7f4b65a492394",
+ "shot": "pq-06-awarding-prequalified-row",
+ "shots": [
+  "pq-06-awarding-prequalified-row"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T11:23:25.539Z",
+  "shot": "pq-06-awarding-prequalified-row",
+  "file": "SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-06-awarding-prequalified-row_boxed.png",
+  "sha256": "db4216f2b4d4cd68cdf0a2bb147b7def2e621d89d0c8b26d62e7f4b65a492394",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq1125 18530451 worker",
+  "notes": "Sam draft 18530451 retake, student Eli Marston; verdicts out/_hq1125/18530451/r6",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "KdV2m3wkuj0Mrpf1lVpAQYCMdVgRJoKGlUzDLm54McGIzLzFjPWVANQp37ES/VGhtWa901z3ZqXbEnDRFnZwDA=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T11:35:33.747Z",
+ "sig": "wsxwbUmDuOpbYr55rYS2GNIMAmQblNbtkwqxdcoNXMNnWhPG0lBtmE0PbEcWCDMaJI4bh9Yfo9mN7SPjozGYAA=="
+}

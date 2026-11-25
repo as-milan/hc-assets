@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-01-qualification-rule_boxed.png",
+ "sha256": "5b00cbcda5018389bec1951efbef0786ca98885807cacd625db29bda46fe3915",
+ "shot": "pq-01-qualification-rule",
+ "shots": [
+  "pq-01-qualification-rule"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T10:56:41.584Z",
+  "shot": "pq-01-qualification-rule",
+  "file": "SM_Qualifications_PreQualifiedStatusQualifyStudentsOnScholarshipSOwnQuestions_pq-01-qualification-rule_boxed.png",
+  "sha256": "5b00cbcda5018389bec1951efbef0786ca98885807cacd625db29bda46fe3915",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq1125 18530451 worker",
+  "notes": "Sam draft 18530451 HC retake on DE128; rounds r1 (fails fixed), r2, r3a-d for pq-06; verdicts in out/_hq1125/18530451",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "wDyj24ST+sVSNicqQBlrsO1K9igY2smQ0GY51gKl7eac28bsXY3qa25s6MEb6u/g+nSxfnIWf5Jkfg4wkC92Aw=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T11:35:19.423Z",
+ "sig": "ctM30frV0XnkU2fEBT0aKp93ur87qLDXYTrHsB0K7iT6WC/ce/GBu8SUGu4SKawsvoxAqbpsLZ0cfeGk49jFAA=="
+}
