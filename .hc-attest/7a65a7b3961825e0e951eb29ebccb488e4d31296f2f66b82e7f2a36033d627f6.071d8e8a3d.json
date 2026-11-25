@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Review_ManagingReviewersAcrossReviewGroups_rgb-03a-remove-select.png",
+ "sha256": "7a65a7b3961825e0e951eb29ebccb488e4d31296f2f66b82e7f2a36033d627f6",
+ "shot": "rgb-03a-remove-select",
+ "shots": [
+  "rgb-03a-remove-select"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:40:32.148Z",
+  "shot": "rgb-03a-remove-select",
+  "file": "SM_Review_ManagingReviewersAcrossReviewGroups_rgb-03a-remove-select.png",
+  "sha256": "7a65a7b3961825e0e951eb29ebccb488e4d31296f2f66b82e7f2a36033d627f6",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq1125 18530539",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "LWFutdgVKbsOyk0d9b4tPbFrEHGr3rVqHg+6Ur2H1mjnR09oxHWtbC1F8o7gdnjUd+SDlsBmj0Nn/nHQTr97CQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T09:41:53.833Z",
+ "sig": "HRCIcwhRXyq6IoBIsRtuq16mgEMeTYx896PBlox/PuKRaNotc+AxzqcARgyYyn3D/7RzN63BsgGHvuYlip4dBg=="
+}

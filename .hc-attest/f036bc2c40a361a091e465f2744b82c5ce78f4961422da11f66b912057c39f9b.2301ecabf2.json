@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Review_ManagingReviewersAcrossReviewGroups_rgb-04b-email-template.png",
+ "sha256": "f036bc2c40a361a091e465f2744b82c5ce78f4961422da11f66b912057c39f9b",
+ "shot": "rgb-04b-email-template",
+ "shots": [
+  "rgb-04b-email-template"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:40:32.970Z",
+  "shot": "rgb-04b-email-template",
+  "file": "SM_Review_ManagingReviewersAcrossReviewGroups_rgb-04b-email-template.png",
+  "sha256": "f036bc2c40a361a091e465f2744b82c5ce78f4961422da11f66b912057c39f9b",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq1125 18530539",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "0RL1dgMkK2e0Qub4Zam/ziOB9zLT11d34WKmn/At/RTnw5/s4AchzIj5f13ZhiFSdolKtvVudevI0+uQ5AuTBw=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T09:41:55.336Z",
+ "sig": "vj3rh24AQeqWbLEw9QwJE6lrSPYKkPsllAjQPvHhO3DfaUdFZQ9CHZnw3uJT8ohL06URuOv8xlNS1SNeGMRWDQ=="
+}
