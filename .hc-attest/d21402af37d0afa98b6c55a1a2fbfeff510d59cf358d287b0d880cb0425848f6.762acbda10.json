@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-06-question-bank_boxed.png",
+ "sha256": "d21402af37d0afa98b6c55a1a2fbfeff510d59cf358d287b0d880cb0425848f6",
+ "shot": "bar-06-question-bank",
+ "shots": [
+  "bar-06-question-bank"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T09:11:58.790Z",
+  "shot": "bar-06-question-bank",
+  "file": "SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-06-question-bank_boxed.png",
+  "sha256": "d21402af37d0afa98b6c55a1a2fbfeff510d59cf358d287b0d880cb0425848f6",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-1125-bar-panel-r2",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "qstJzgTRVhm9L+Z87IEbn0h6ybWz+iuia0W9fmVObIvByCk/WOe/W/7klkmv4MokxsVrz4Uy7KoAgElroo6qDw=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T12:29:53.514Z",
+ "sig": "40+mcaDmLfnFKnQ75Bhb5DDvPCZkAkZzew8eFI+/taMoty8Trem2/g7BOBJoCBkDnCpudvAk2Jl2jyutf+UPBw=="
+}

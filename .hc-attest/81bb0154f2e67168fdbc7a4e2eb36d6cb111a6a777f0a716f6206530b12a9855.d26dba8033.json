@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-05-replace-review-skipped_boxed.png",
+ "sha256": "81bb0154f2e67168fdbc7a4e2eb36d6cb111a6a777f0a716f6206530b12a9855",
+ "shot": "bar-05-replace-review-skipped",
+ "shots": [
+  "bar-05-replace-review-skipped"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-25T12:28:05.051Z",
+  "shot": "bar-05-replace-review-skipped",
+  "file": "SM_Managing_Scholarships_BulkManagingAdditionalRequirementQuestions_bar-05-replace-review-skipped_boxed.png",
+  "sha256": "81bb0154f2e67168fdbc7a4e2eb36d6cb111a6a777f0a716f6206530b12a9855",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hq-1125-sam-shots-1",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "rPK/SJIfgwaZxBh92fPeo99H2IG5g2z7dYfCtYxcpfLXGsSGDoBZeLLGBTTA1K9xa37Gwd0JZfuvzHU2VRK+Aw=="
+ },
+ "frozen": false,
+ "at": "2026-11-25T12:29:51.429Z",
+ "sig": "GbqyEH054X/9oZ967ltAQkj5KihmuPKnpj9BDQBJtPonHciX8993L01UuAM1Uw3HuZYwD3TAct/qj75/HqptCw=="
+}
