@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Award_Cycle_ConfiguringAwardCycles_ac-02-v3-create-award-cycle-form_boxed.png",
+ "sha256": "21f986d5e471e4b8fd7a0d2a3161c3d2785adb345e760b2c1e3a667fc66e8962",
+ "shot": "ac-02-v3-create-award-cycle-form",
+ "shots": [
+  "ac-02-v3-create-award-cycle-form"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-28T06:14:33.721Z",
+  "shot": "ac-02-v3-create-award-cycle-form",
+  "file": "SM_Award_Cycle_ConfiguringAwardCycles_ac-02-v3-create-award-cycle-form_boxed.png",
+  "sha256": "21f986d5e471e4b8fd7a0d2a3161c3d2785adb345e760b2c1e3a667fc66e8962",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-s1127b",
+  "notes": "s1127b r2 maxw 1225 recapture; same canary; consistency under MILAN-RULINGS 2026-10-20",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "IzcuAhLFEVTIOjMPpO3bIYPSLmXm1ZF4HtG5Hkk50A2MjwTuJRaMCS+cMz7h0Si3/qeUJHVdViYb6VedYB4FDQ=="
+ },
+ "frozen": false,
+ "at": "2026-11-28T06:17:01.036Z",
+ "sig": "Fo5MKFXHP0kDg2xemsnd24eOn7jeIrEZRSCQyMqOwjdhTXLconOKbvCQBRJK/S9NTchJI7qyjX53LWP/sX6NAA=="
+}
