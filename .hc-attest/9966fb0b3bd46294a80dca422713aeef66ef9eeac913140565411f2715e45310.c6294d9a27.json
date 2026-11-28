@@ -1,0 +1,34 @@
+{
+ "v": 3,
+ "kind": "stage",
+ "file": "staging/PROD_SM_Award_Cycle_ConfiguringAwardCycles_ac-02-v3-create-award-cycle-form_boxed.png",
+ "sha256": "9966fb0b3bd46294a80dca422713aeef66ef9eeac913140565411f2715e45310",
+ "shot": "ac-02-v3-create-award-cycle-form",
+ "shots": [
+  "ac-02-v3-create-award-cycle-form"
+ ],
+ "sharedAs": null,
+ "pass": {
+  "at": "2026-11-28T08:07:20.796Z",
+  "shot": "ac-02-v3-create-award-cycle-form",
+  "file": "SM_Award_Cycle_ConfiguringAwardCycles_ac-02-v3-create-award-cycle-form_boxed.png",
+  "sha256": "9966fb0b3bd46294a80dca422713aeef66ef9eeac913140565411f2715e45310",
+  "overall": "PASS",
+  "reviewers": {
+   "gatekeeper": "PASS",
+   "edge-inspector": "PASS",
+   "annotation-auditor": "PASS",
+   "consistency-auditor": "PASS",
+   "subject-state-verifier": "PASS",
+   "chair": "PASS"
+  },
+  "canaryCaught": true,
+  "registrar": "hc-819b663e s1127d (canary caught by gatekeeper, edge, consistency, chair; annotation and subject out of lane on its defect)",
+  "notes": "",
+  "ruleSet": "spec-2026-10-30.1",
+  "sig": "BFMdvkClB/UxRy9shZBKX1Uo4ndxKxMsNdD08/FDnaKIKKAsnzUkCG0ekTVcye0WfBLSCiALgitTE/5zZIgCAA=="
+ },
+ "frozen": false,
+ "at": "2026-11-28T08:10:26.723Z",
+ "sig": "17nUy6o4OADn9rE4PGx/EPoweSG4sI7tk0nofVhhJl6CjfWSrN5IIwf+JDCpNxADDtt0XEATKmXUu40rPAzQAQ=="
+}
